@@ -38,4 +38,3 @@ while True:
 print("- You guessed it in", guesses, "guesses")
 print("- Thank you for playing. See you soon for another round :-)!")
 
-git init
